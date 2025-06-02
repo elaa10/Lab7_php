@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="ro">
 <head>
 	<meta charset="UTF-8" />
-	<title>Problema 3 - Autentificare user</title>
+	<title>Problema 5 - Autentificare user</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<style>
 		body { font-family: Arial; padding: 20px; }

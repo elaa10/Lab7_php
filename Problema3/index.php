@@ -51,7 +51,7 @@ $results = $conn->query($sql);
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Problema 2 - Autentificare profesor</title>
+	<title>Problema 3 - Autentificare profesor</title>
 	<style>
 		body { font-family: Arial, sans-serif; padding: 20px; background-color: #f0f0f0; }
 		form { background: #fff; padding: 20px; border-radius: 8px; width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
